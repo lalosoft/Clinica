@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WR87VrqYH7gdFqGWyB//1dVDj0/OhMgpbuAyo9xuYZJh/F2qZhlX4HKNej0TjD+0U9KnRkXJ09tvhQqh9nmFtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lalo_\\Source\\Repos\\Clinica\\AppClinicaBack\\AppClinicaFront\\AppClinicaFront.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lalo_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
